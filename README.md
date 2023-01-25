@@ -5,6 +5,8 @@
 username: admin
 password: 123456
 
+Should login only when the server is on and mysql is connected from  my another news_server repositoty!!
+
 ## Project setup
 
 ```
